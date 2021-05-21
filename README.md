@@ -9,7 +9,7 @@ Meu nome é Luiza, sou estudante de Engenharia de Software e brasileira.
 
  - Desenvolvimento de software <3
  - 💙 In love with JavaScript and Python
- - 🌱
+ - 🌱 Estudando Git
 
 
 ## &#x1f4c8; GitHub Stats
