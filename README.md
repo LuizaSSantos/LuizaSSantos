@@ -4,9 +4,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luizassantos)](https://github.com/luizassantos)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizasantos.mneg@gmail.com)](mailto:luizasantos.mneg@gmail.com)
 
-## Olá! 👋 Bem-vindo(a) ao meu perfil!
+### Olá! 👋 Bem-vindo(a) ao meu perfil!
 
-Meu nome é Luiza, atualmente sou estudante do curso de Engenharia de Software.
+Meu nome é Luiza, sou estudante do curso de Engenharia de Software.
 
  - :blue_heart: Amo encarar desafios e aprender coisas novas 💡
  - 🌱 Estudando Git, Linux e Python 📚
