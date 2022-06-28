@@ -10,7 +10,6 @@ Meu nome é Luiza, sou estudante do curso de Engenharia de Software.
 
  - :blue_heart: Amo encarar desafios e aprender coisas novas 💡
  - 🌱 Estudando Git, Linux e Python 📚
- - 🎵 Apaixonada por música e tocar violão :guitar:
                               
                               
 
